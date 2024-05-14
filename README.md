@@ -5,4 +5,6 @@
 
 This is in the Tutorial.txt file.
 
-+ These are the *lowest* possible settings you could get with fortnite to ensure you have the best performance while gaming.
++ These settings are more focused on performance that visuals.
++ The *lowest* possible settings you could get with fortnite to ensure you have the best performance while gaming.
++ Decent for low end Laptops/PCS
