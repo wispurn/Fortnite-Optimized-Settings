@@ -10,3 +10,6 @@ This is in the Tutorial.txt file.
 + Decent for low end Laptops/PCS
 + Drastically better in terms of performance than the stock settings.
 + The GameUserSettings.ini file is safe, you can turn it into a .txt file and look into it if you believe there's any type of malware.
+  
+IMPORTANT
+if this messes up your fortnite and stretches, open the file up and go to resolution and change it to your native resolution
