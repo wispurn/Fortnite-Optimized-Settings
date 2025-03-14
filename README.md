@@ -13,3 +13,6 @@ This is in the Tutorial.txt file.
   
 IMPORTANT
 if this messes up your fortnite and stretches, open the file up and go to resolution and change it to your native resolution
+
+
+NOTE: i haven't updated this since fortnite ch5 s1, im unaware if there are changes in the current game user file but im pretty sure if you use the file it will still import the settings that haven't been changed throughout the updates.
